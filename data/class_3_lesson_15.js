@@ -73,3 +73,6 @@ const sourceWords_class_3_lesson_15 = [
         },
 
     ];
+let classLessonsList['class_3'] = classLessonsList['class_3'] || {};
+let classLessonsList['class_3']['lesson_15'] = classLessonsList['class_3']['lesson_15'] || {};
+let classLessonsList['class_3']['lesson_15'] = sourceWords_class_3_lesson_15;
