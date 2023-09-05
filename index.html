@@ -48,7 +48,17 @@
         <input id="block_action" type="button" value="show translation" style="display: inline-block; height: 40px;">
     </div>
 </div>
-<script>
+<script type="application/javascript">
+    let classLessonsList = {
+        // 'class_3': {
+        //     'lesson_15': 
+        // }
+    };
+</script>
+
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="./data/class_3_lesson_15.js"></script>
+<script type="application/javascript">
+   
     var speechS = window.speechSynthesis;
 
     var inputForm = document.querySelector('form');
@@ -138,82 +148,9 @@
         speak();
     }
 </script>
-<script>
-    const sourceWords = [
-        {
-            'en': ['t-shirt'],
-            'ru': ['футболка'],
-        },
-        {
-            'en': ['dress'],
-            'ru': ['платье'],
-        },
-        {
-            'en': ['shirt'],
-            'ru': ['рубашка'],
-        },
-        {
-            'en': ['trousers'],
-            'ru': ['брюки'],
-        },
-        {
-            'en': ['skirt'],
-            'ru': ['юбка'],
-        },
-        {
-            'en': ['shoes'],
-            'ru': ['туфли'],
-        },
-        {
-            'en': ['dark cloud'],
-            'ru': ['туча'],
-        },
-        {
-            'en': ["it's raining"],
-            'ru': ['идёт доджь'],
-        },
-        {
-            'en': ["it's hot"],
-            'ru': ['жарко'],
-        },
-        {
-            'en': ["it's sunny"],
-            'ru': ['солнечно'],
-        },
-        {
-            'en': ["it's snowing"],
-            'ru': ['идёт снег'],
-        },
-        {
-            'en': ["it's windy"],
-            'ru': ['ветренно'],
-        },
-        {
-            'en': ["it's cold"],
-            'ru': ['холодно'],
-        },
-        {
-            'en': ['socks'],
-            'ru': ['носки'],
-        },
-        {
-            'en': ['boots'],
-            'ru': ['ботинки'],
-        },
-        {
-            'en': ['trainers'],
-            'ru': ['кроссовки'],
-        },
-        {
-            'en': ['shorts'],
-            'ru': ['шорты'],
-        },
-        {
-            'en': ['jacket'],
-            'ru': ['куртка', 'пиджак'],
-        },
-
-    ];
+<script type="application/javascript">
+    console.log('classLessonsList',classLessonsList);
+    const sourceWords = classLessonsList['class_3']['lesson_15'] ;
 
     // const fromLang = 'en';
     // const toLang = 'ru';
