@@ -54,7 +54,7 @@ const sourceWords_class_4_lesson_1 = [
         },
         {
             'en': ["Italy"],
-            'ru': ['[Италия'],
+            'ru': ['Италия'],
         },
         {
             'en': ["Mexico"],
