@@ -69,4 +69,4 @@ const sourceWords_class_4_lesson_8 = [
  */
 classLessonsList['class_4'] = classLessonsList['class_4'] || {};
 classLessonsList['class_4']['lesson_8'] = classLessonsList['class_4']['lesson_8'] || {};
-classLessonsList['class_4']['lesson_8'] = sourceWords_class_4_lesson_1;
+classLessonsList['class_4']['lesson_8'] = sourceWords_class_4_lesson_8;
