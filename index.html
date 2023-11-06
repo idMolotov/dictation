@@ -72,6 +72,7 @@
         }
         if (someTextValue !== '') {
             var utterThis = new SpeechSynthesisUtterance(someTextValue);
+            utterThis.lang='en-US'; // for US english, en-GR for british
             utterThis.onend = function (event) {
                 console.log('SpeechSynthesisUtterance.onend');
             }
