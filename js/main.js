@@ -1,5 +1,5 @@
 console.log('classLessonsList', classLessonsList);
-const sourceWords = classLessonsList['class_4']['lesson_6'];
+const sourceWords = classLessonsList['class_4']['lesson_10'];
 // const sourceWords = classLessonsList['class_4']['lesson_9'];
 
 // const fromLang = 'en'; const toLang = 'ru';
