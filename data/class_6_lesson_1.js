@@ -103,4 +103,4 @@ const sourceWords_class_6_lesson_1 = [
  */
 classLessonsList[className] = classLessonsList[className] || {};
 classLessonsList[className][lessonName] = classLessonsList[className][lessonName] || {};
-classLessonsList[className][lessonName] = sourceWords_class_4_lesson_1;
+classLessonsList[className][lessonName] = sourceWords_class_6_lesson_1;
