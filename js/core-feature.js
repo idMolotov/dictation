@@ -2,8 +2,8 @@ console.log('classLessonsList', classLessonsList);
 const sourceWords = classLessonsList['class_6']['lesson_1'];
 // const sourceWords = classLessonsList['class_4']['lesson_9'];
 
-const fromLang = 'en'; const toLang = 'ru';
-// const fromLang = 'ru'; const toLang = 'en';
+// const fromLang = 'en'; const toLang = 'ru';
+const fromLang = 'ru'; const toLang = 'en';
 
 function getRandomWordData() {
     return sourceWords[Math.round(Math.random() * (sourceWords.length - 1))];
