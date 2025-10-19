@@ -11,7 +11,7 @@ const sourceWords_class_6_lesson_2 = [
         },
         {
             'en': ['attraction'],
-            'ru': ['привлекательность'],
+            'ru': ['достопримечательность', 'аттракцион'],
         },
         {
             'en': ['wax figure'],
@@ -23,7 +23,7 @@ const sourceWords_class_6_lesson_2 = [
         },
         {
             'en': ['puppet'],
-            'ru': ['марионетка'],
+            'ru': ['марионетка', 'кукла'],
         },
         {
             'en': ['crowd'],
