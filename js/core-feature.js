@@ -42,7 +42,6 @@ const [classWord, lessonWord, fromLang, toLang] = getSourceWordsFromURL();
 
 console.log("Extracted Source Words:", classWord, lessonWord, fromLang, toLang);
 
-if (Array.)
 const sourceWords = classLessonsList[`${classWord}_${lessonWord}`] ?? classLessonsList[classWord]?.[lessonWord];
 // const sourceWords = classLessonsList[classWord][lessonWord] || classLessonsList[`${classWord}_${lessonWord}`];
 // const sourceWords = classLessonsList['class_4']['lesson_9'];
