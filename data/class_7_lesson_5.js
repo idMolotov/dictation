@@ -2,7 +2,7 @@
  * @global classLessonsList
  */
 Object.assign(classLessonsList, {
-    'class_7_lesson_4': [
+    'class_7_lesson_5': [
         {
             'en': ['culture'],
             'ru': ['культура'],
