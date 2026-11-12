@@ -28,8 +28,8 @@ Object.assign(classLessonsList, {
             'ru': ['проходить мимо'],
         },
         {
-            'en': ['sacksack'],
-            'ru': ['рюкзак'],
+            'en': ['embassy '],
+            'ru': ['посольство'],
         },
         {
             'en': ['head back to'],
