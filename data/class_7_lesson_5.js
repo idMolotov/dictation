@@ -52,8 +52,13 @@ Object.assign(classLessonsList, {
             'ru': ['длиннохвостая лодка'],
         },
         {
-            'en': ['grab, bush'],
-            'ru': ['хватать, куст'],
+            'en': ['bush'],
+            'ru': ['куст'],
+        },
+        {
+            'en': ['grab'],
+            'ru': ['хватать'],
+            
         },
         {
             'en': ['run after'],
