@@ -2,7 +2,7 @@
  * @global classLessonsList
  */
 Object.assign(classLessonsList, {
-    'class_7_lesson_5': [
+    'class_7_lesson_6': [
         {
             'en': ['brainchild'],
             'ru': ['детище, идея, изобретение (кого-либо)'],
